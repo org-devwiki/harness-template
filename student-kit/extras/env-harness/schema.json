@@ -1,0 +1,12 @@
+{
+  "node": [
+    "APP_PORT",
+    "DB_URL",
+    "DB_PASSWORD"
+  ],
+  "spring": [
+    "server.port",
+    "spring.datasource.url",
+    "spring.datasource.password"
+  ]
+}

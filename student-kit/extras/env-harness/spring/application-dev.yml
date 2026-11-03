@@ -1,0 +1,6 @@
+server:
+  port: ${APP_PORT:8081}
+spring:
+  datasource:
+    url: ${DB_URL}
+    password: ${DB_PASSWORD}
